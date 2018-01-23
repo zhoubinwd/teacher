@@ -6,4 +6,5 @@ package com.lusummer.teacher;
 public class RedisTestController {
 
     String master;
+    String changeconfig;
 }
