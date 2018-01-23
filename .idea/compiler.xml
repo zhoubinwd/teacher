@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="teacher-common" />
+        <module name="teacher-service" />
+        <module name="teacher-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="teacher" target="1.5" />
+      <module name="teacher-common" target="1.5" />
+      <module name="teacher-service" target="1.5" />
+      <module name="teacher-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
