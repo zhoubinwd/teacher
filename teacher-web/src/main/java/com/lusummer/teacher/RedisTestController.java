@@ -7,4 +7,5 @@ public class RedisTestController {
 
     String master;
     String changeconfig;
+
 }
